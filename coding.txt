@@ -6,6 +6,16 @@ Java
 Python
 
 
+
 object orientated programming
 polymorphism 
 datastructures
+
+c++
+
+
+
+
+
+done with changes
+
