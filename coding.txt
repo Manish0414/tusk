@@ -4,6 +4,13 @@ welcome to coding world
 
 Java
 Python
+
+
+
+object orientated programming
+polymorphism 
+datastructures
+
 c++
 
 
@@ -11,3 +18,4 @@ c++
 
 
 done with changes
+
